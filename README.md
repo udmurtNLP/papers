@@ -6,4 +6,5 @@
 - [Low-Resource ASR with an Augmented Language Model, 2021](https://aclanthology.org/2021.iwclul-1.5/)
 - [Corpora of social media in minority Uralic languages, 2019](https://aclanthology.org/W19-0311/)
 - [Sound-aligned corpus of Udmurt dialectal texts, 2018](https://aclanthology.org/W18-0203/)
+- [Creating seed lexicons for under-resourced languages](http://real.mtak.hu/46051/1/LREC2016Workshop_GLOBALEX_Proceedings_v21_u.pdf)
 - [FinUgRevita: Developing Language TechnologyTools for Udmurt and Mansi, 2015](https://septentrio.uit.no/index.php/SCS/article/view/3473)
