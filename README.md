@@ -1,5 +1,7 @@
 # Papers
 
+![image](https://i.ibb.co/NLs0PsV/papers.png)
+
 - [MaLA-500: Massive Language Adaptation of Large Language Models, 2024](https://arxiv.org/abs/2401.13303)
 - [Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages, 2023](https://aclanthology.org/2023.acl-long.61/)
 - [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset, 2023](https://arxiv.org/abs/2309.04662)
