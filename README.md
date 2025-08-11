@@ -2,6 +2,7 @@
 
 ![image](https://github.com/udmurtNLP/docs/blob/main/imgs/papers.png?raw=true)
 
+- [Combining Automated and Manual Data for Effective Downstream Fine-Tuning of Transformers for Low-Resource Language Applications, 2025](https://aclanthology.org/2025.xllm-1.9/)
 - [Alligators All Around: Mitigating Lexical Confusion in Low-resource Machine Translation, 2025](https://aclanthology.org/2025.naacl-short.18/)
 - [Using Large Language Models to Transliterate Endangered Uralic Languages, 2024](https://aclanthology.org/2024.iwclul-1.10/)
 - [MaLA-500: Massive Language Adaptation of Large Language Models, 2024](https://arxiv.org/abs/2401.13303)
