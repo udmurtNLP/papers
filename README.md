@@ -2,6 +2,7 @@
 
 ![image](https://github.com/udmurtNLP/docs/blob/main/imgs/papers.png?raw=true)
 
+- [MultiWikiQA: A Reading Comprehension Benchmark in 300+ Languages, 2025](https://arxiv.org/abs/2509.04111)
 - [Combining Automated and Manual Data for Effective Downstream Fine-Tuning of Transformers for Low-Resource Language Applications, 2025](https://aclanthology.org/2025.xllm-1.9/)
 - [Alligators All Around: Mitigating Lexical Confusion in Low-resource Machine Translation, 2025](https://aclanthology.org/2025.naacl-short.18/)
 - [Using Large Language Models to Transliterate Endangered Uralic Languages, 2024](https://aclanthology.org/2024.iwclul-1.10/)
