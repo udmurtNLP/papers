@@ -2,16 +2,27 @@
 
 ![image](https://github.com/udmurtNLP/docs/blob/main/imgs/papers.png?raw=true)
 
+## 2025
+
 - [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model, 2025](https://arxiv.org/abs/2510.14528)
 - [MultiWikiQA: A Reading Comprehension Benchmark in 300+ Languages, 2025](https://arxiv.org/abs/2509.04111)
 - [Combining Automated and Manual Data for Effective Downstream Fine-Tuning of Transformers for Low-Resource Language Applications, 2025](https://aclanthology.org/2025.xllm-1.9/)
 - [Alligators All Around: Mitigating Lexical Confusion in Low-resource Machine Translation, 2025](https://aclanthology.org/2025.naacl-short.18/)
+
+## 2024
+
 - [Using Large Language Models to Transliterate Endangered Uralic Languages, 2024](https://aclanthology.org/2024.iwclul-1.10/)
 - [MaLA-500: Massive Language Adaptation of Large Language Models, 2024](https://arxiv.org/abs/2401.13303)
+
+## 2023
+
 - [Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages, 2023](https://aclanthology.org/2023.acl-long.61/)
 - [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset, 2023](https://arxiv.org/abs/2309.04662)
 - [Machine Translation for Low-resource Finno-Ugric Languages, 2023](https://aclanthology.org/2023.nodalida-1.77/)
 - [Sentiment Analysis Using Aligned Word Embeddings for Uralic Languages, 2023](https://aclanthology.org/2023.resourceful-1.3/)
+
+## Older
+
 - [Low-Resource ASR with an Augmented Language Model, 2021](https://aclanthology.org/2021.iwclul-1.5/)
 - [The role of the Udmurt spell checker in replenishment of the Udmurt national corpus, 2020](https://cyberleninka.ru/article/n/rol-programmy-proverki-udmurtskoy-orfografii-v-popolnenii-natsionalnogo-korpusa-udmurtskogo-yazyka)
 - [Corpora of social media in minority Uralic languages, 2019](https://aclanthology.org/W19-0311/)
