@@ -4,22 +4,23 @@
 
 ## 2025
 
-- [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model, 2025](https://arxiv.org/abs/2510.14528)
-- [MultiWikiQA: A Reading Comprehension Benchmark in 300+ Languages, 2025](https://arxiv.org/abs/2509.04111)
-- [Combining Automated and Manual Data for Effective Downstream Fine-Tuning of Transformers for Low-Resource Language Applications, 2025](https://aclanthology.org/2025.xllm-1.9/)
-- [Alligators All Around: Mitigating Lexical Confusion in Low-resource Machine Translation, 2025](https://aclanthology.org/2025.naacl-short.18/)
+- [Evaluating OpenAI GPT Models for Translation of Endangered Uralic Languages: A Comparison of Reasoning and Non-Reasoning Architectures](www.researchgate.net/publication/398479003_Evaluating_OpenAI_GPT_Models_for_Translation_of_Endangered_Uralic_Languages_A_Comparison_of_Reasoning_and_Non-Reasoning_Architectures)
+- [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://arxiv.org/abs/2510.14528)
+- [MultiWikiQA: A Reading Comprehension Benchmark in 300+ Languages](https://arxiv.org/abs/2509.04111)
+- [Combining Automated and Manual Data for Effective Downstream Fine-Tuning of Transformers for Low-Resource Language Applications](https://aclanthology.org/2025.xllm-1.9/)
+- [Alligators All Around: Mitigating Lexical Confusion in Low-resource Machine Translation](https://aclanthology.org/2025.naacl-short.18/)
 
 ## 2024
 
-- [Using Large Language Models to Transliterate Endangered Uralic Languages, 2024](https://aclanthology.org/2024.iwclul-1.10/)
-- [MaLA-500: Massive Language Adaptation of Large Language Models, 2024](https://arxiv.org/abs/2401.13303)
+- [Using Large Language Models to Transliterate Endangered Uralic Languages](https://aclanthology.org/2024.iwclul-1.10/)
+- [MaLA-500: Massive Language Adaptation of Large Language Models](https://arxiv.org/abs/2401.13303)
 
 ## 2023
 
-- [Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages, 2023](https://aclanthology.org/2023.acl-long.61/)
-- [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset, 2023](https://arxiv.org/abs/2309.04662)
-- [Machine Translation for Low-resource Finno-Ugric Languages, 2023](https://aclanthology.org/2023.nodalida-1.77/)
-- [Sentiment Analysis Using Aligned Word Embeddings for Uralic Languages, 2023](https://aclanthology.org/2023.resourceful-1.3/)
+- [Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages](https://aclanthology.org/2023.acl-long.61/)
+- [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
+- [Machine Translation for Low-resource Finno-Ugric Languages](https://aclanthology.org/2023.nodalida-1.77/)
+- [Sentiment Analysis Using Aligned Word Embeddings for Uralic Languages](https://aclanthology.org/2023.resourceful-1.3/)
 
 ## Older
 
