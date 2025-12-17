@@ -4,7 +4,7 @@
 
 ## 2025
 
-- [Evaluating OpenAI GPT Models for Translation of Endangered Uralic Languages: A Comparison of Reasoning and Non-Reasoning Architectures](www.researchgate.net/publication/398479003_Evaluating_OpenAI_GPT_Models_for_Translation_of_Endangered_Uralic_Languages_A_Comparison_of_Reasoning_and_Non-Reasoning_Architectures)
+- [Evaluating OpenAI GPT Models for Translation of Endangered Uralic Languages: A Comparison of Reasoning and Non-Reasoning Architectures](https://www.researchgate.net/publication/398479003_Evaluating_OpenAI_GPT_Models_for_Translation_of_Endangered_Uralic_Languages_A_Comparison_of_Reasoning_and_Non-Reasoning_Architectures)
 - [PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model](https://arxiv.org/abs/2510.14528)
 - [MultiWikiQA: A Reading Comprehension Benchmark in 300+ Languages](https://arxiv.org/abs/2509.04111)
 - [Combining Automated and Manual Data for Effective Downstream Fine-Tuning of Transformers for Low-Resource Language Applications](https://aclanthology.org/2025.xllm-1.9/)
